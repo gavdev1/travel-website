@@ -1,0 +1,22 @@
+{
+  "name": "04-travel-web",
+  "version": "1.0.0",
+  "description": "Travel web elaborada con HTML & CSS & POSTCSS con diseño responsive",
+  "scripts": {
+    "postcss": "postcss -w src/css/style.css --dir src/assets/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-declaration-sorter": "^7.0.2",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.25",
+    "postcss-cli": "^10.1.0",
+    "postcss-color-function": "^4.1.0",
+    "postcss-include-media": "^1.1.1",
+    "postcss-nested": "^6.0.1",
+    "postcss-preset-env": "^9.0.0",
+    "postcss-simple-vars": "^7.0.1"
+  }
+}
